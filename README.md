@@ -1,3 +1,5 @@
+## 4.0 Análisis de Riesgos y Gestión de Contingencias: "Closed Challenge"
+
 En el reto cerrado (*Closed Challenge*), la pista libre de obstáculos nos permite exprimir al máximo el rendimiento del motor de tracción trasera y la velocidad de procesamiento de la cámara HuskyLens. Sin embargo, rodar a regímenes de velocidad elevados introduce riesgos dinámicos severos. 
 
 Para asegurar el 100% de efectividad en las rondas oficiales, nuestro equipo ha mapeado la siguiente matriz de riesgos mecánicos, eléctricos y de software, aplicando soluciones de ingeniería probadas en boxes:
@@ -32,7 +34,6 @@ Antes de colocar a Trivilyn 3.0 en la línea de salida del *Closed Challenge*, e
 2. **[  ] Inspección de Pines en Cascada:** Comprobar la firmeza de las conexiones de los sensores HC y el bus serie de la cámara para mitigar fallos por vibración.
 3. **[  ] Limpieza de Banda de Rodadura:** Limpiar los neumáticos de caucho con alcohol isopropílico para retirar el polvo de la pista y garantizar el agarre máximo en las curvas de alta velocidad.
 4. **[  ] Calibración de Cero Angular:** Verificar que el servomotor alinee las ruedas delanteras exactamente a 90 grados respecto al eje del chasis, evitando desviaciones parásitas en las rectas limpias.
-
 
 ### Archivos CAD
 
